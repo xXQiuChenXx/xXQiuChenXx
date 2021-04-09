@@ -3,5 +3,10 @@
         "type": "release",
         "version": "lastest",
         "changelog": "创造芯瑞机器人"
+    },
+    "0.0.0": {
+        "type": "release",
+        "version": "0.0.0",
+        "changelog": "nothing"
     }
 }
