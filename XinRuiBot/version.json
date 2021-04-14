@@ -1,7 +1,12 @@
 {
-    "1.0.0": {
+    "1.1.0": {
         "type": "release",
         "version": "lastest",
+        "changelog": "创造芯瑞机器人"
+    },
+    "1.0.0": {
+        "type": "release",
+        "version": "1.0.0",
         "changelog": "创造芯瑞机器人"
     },
     "0.0.0": {
