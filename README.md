@@ -7,7 +7,7 @@ JS初手，会一些基本JS
 
 ---
 ### Github状态
-[![秋辰的Github状态](https://github-readme-stats.vercel.app/api?username=QC-Development&show_icons=true)](https://github.com/QC-Development)
+[![秋辰的Github状态](https://github-readme-stats.vercel.app/api?username=QiuChen-Developer&show_icons=true)](https://github.com/QiuChen-Developer)
 
 ### 热门使用的语言
-[![最佳使用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=QC-Development&layout=compact)](https://github.com/QC-Development)
+[![最佳使用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=QiuChen-Developer&layout=compact)](https://github.com/QiuChen-Developer)
