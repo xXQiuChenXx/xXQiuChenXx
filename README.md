@@ -6,7 +6,7 @@ Hi there!👋 I am Qiu Chen (My Nickname)! A Fullstack Engineer with many years 
 ## Commonly I will use the languages below:  
 ![javascript](https://badges.aleen42.com/src/javascript.svg) : JavaScript  
 ![nodejs](https://badges.aleen42.com/src/node.svg) : Node.js  
-![Typescript]([https://badges.aleen42.com/src/node.svg](https://badges.aleen42.com/src/typescript.svg)) : Typescript
+![Typescript](https://badges.aleen42.com/src/typescript.svg) : Typescript
 
 ## I am using the IDEs below:  
 ![vscode](https://badges.aleen42.com/src/visual_studio_code.svg) : Visual Studio Code  
