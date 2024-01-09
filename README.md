@@ -18,8 +18,8 @@ Hi there!👋 I am Qiu Chen (My Nickname)! A Fullstack Engineer with many years 
 ![java](https://badges.aleen42.com/src/java.svg) : Java  
 
 ## Frontend Development
-![React]([https://badges.aleen42.com/src/java.svg](https://badges.aleen42.com/src/react.svg) : React
-![TailwindCSS]([https://badges.aleen42.com/src/java.svg](https://badges.aleen42.com/src/react.svg) : TailwindCSS
+![React](https://badges.aleen42.com/src/react.svg) : React
+![TailwindCSS](https://badges.aleen42.com/src/react.svg) : TailwindCSS
 
 
 ## My Github Status
