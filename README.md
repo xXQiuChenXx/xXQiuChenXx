@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=5B19F7&random=false&width=420&lines=Qiu+Chen;Lau+Tai+Hong)](https://git.io/typing-svg)
-
 Hi there!👋 I am Qiu Chen (My Nickname)! A Fullstack Engineer with many years of experience
 
 ---
