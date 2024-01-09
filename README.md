@@ -8,19 +8,20 @@ Hi there!👋 I am Qiu Chen (My Nickname)! A Fullstack Engineer with many years 
 ![nodejs](https://badges.aleen42.com/src/node.svg) : Node.js  
 ![Typescript](https://badges.aleen42.com/src/typescript.svg) : Typescript
 
+## Other languages that I know:  
+![java](https://badges.aleen42.com/src/java.svg) : Java
+and other high level languages like C++ and C#
+
 ## I am using the IDEs below:  
 ![vscode](https://badges.aleen42.com/src/visual_studio_code.svg) : Visual Studio Code  
 ![vc](https://badges.aleen42.com/src/visual_studio.svg) : Visual Studio  
 ![idea](https://badges.aleen42.com/src/idea.svg) : IntelliJ IDEA
 ![Eclipse](https://badges.aleen42.com/src/idea.svg) : Eclipse
 
-## I am now learning the languages below:  
-![java](https://badges.aleen42.com/src/java.svg) : Java  
-
 ## Frontend Development
-![React](https://badges.aleen42.com/src/react.svg) : React<br />
-![TailwindCSS](https://badges.aleen42.com/src/tailwindcss.svg) : TailwindCSS
-
+![React](https://badges.aleen42.com/src/react.svg) : React <br />
+![TailwindCSS](https://badges.aleen42.com/src/tailwindcss.svg) : TailwindCSS <br />
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) : NextJS
 
 ## My Github Status
 ![Qiu Chen's Github Stat](https://github-readme-stats.vercel.app/api/?username=xXQiuChenXx&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10)
