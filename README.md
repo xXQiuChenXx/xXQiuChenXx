@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=5B19F7&random=false&width=420&lines=Qiu+Chen;Lau+Tai+Hong)](https://git.io/typing-svg)
-Hi there!👋 I am Qiu Chen (My Nickname)! A Fullstack Engineer with many years of experience
+Hi there!👋 I am Qiu Chen (LTH)! I likes to create, build, and deploy automated apps and softwares. A Fullstack Engineer with many years of experience
 
 ---
 
@@ -15,12 +15,12 @@ and other high level languages like C++ and C#
 ## I am using the IDEs below:  
 ![vscode](https://badges.aleen42.com/src/visual_studio_code.svg) : Visual Studio Code  
 ![vc](https://badges.aleen42.com/src/visual_studio.svg) : Visual Studio  
-![idea](https://badges.aleen42.com/src/idea.svg) : IntelliJ IDEA
-![Eclipse](https://badges.aleen42.com/src/idea.svg) : Eclipse
+![idea](https://badges.aleen42.com/src/idea.svg) : IntelliJ IDEA  
+![Eclipse](https://badges.aleen42.com/src/eclipse.svg) : Eclipse
 
 ## Frontend Development
-![React](https://badges.aleen42.com/src/react.svg) : React <br />
-![TailwindCSS](https://badges.aleen42.com/src/tailwindcss.svg) : TailwindCSS <br />
+![React](https://badges.aleen42.com/src/react.svg) : React  
+![TailwindCSS](https://badges.aleen42.com/src/tailwindcss.svg) : TailwindCSS  
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) : NextJS
 
 ## My Github Status
